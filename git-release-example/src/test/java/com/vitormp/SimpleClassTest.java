@@ -8,6 +8,6 @@ public class SimpleClassTest extends TestCase {
 
 	@Test
 	public void testname() throws Exception {
-		
+		System.out.println("Hellooooo");
 	}
 }
