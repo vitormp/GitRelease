@@ -1,0 +1,6 @@
+Just an example of how the maven-release-plugin wokrs with git repository.
+
+You have just to configure your repository and the maven release plugin on your project pom.xml.
+Configure the repository with the <scm> tag and the plugin with the <plugin> tag inside the <build> tag.
+
+See the pom.xml of this project for an example.
