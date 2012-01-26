@@ -15,6 +15,7 @@
 		<url>scm:git:git@github.com:vitormp/GitRelease.git</url>
 	</scm>
 	
+	
 	<build>
 		<finalName>git-release-example</finalName>
 		
